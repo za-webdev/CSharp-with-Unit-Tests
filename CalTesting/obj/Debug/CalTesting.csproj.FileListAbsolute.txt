@@ -1,0 +1,6 @@
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTesting\bin\Debug\CalTesting.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTesting\obj\Debug\CalTesting.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTesting\bin\Debug\CalTesting.exe
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTesting\bin\Debug\CalTesting.pdb
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTesting\obj\Debug\CalTesting.exe
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTesting\obj\Debug\CalTesting.pdb

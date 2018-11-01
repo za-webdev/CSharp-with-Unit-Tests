@@ -1,0 +1,10 @@
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\obj\Debug\CalTestingTests.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\bin\Debug\CalTestingTests.dll
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\bin\Debug\CalTestingTests.pdb
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\bin\Debug\CalTesting.exe
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\bin\Debug\nunit.framework.dll
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\bin\Debug\CalTesting.pdb
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\bin\Debug\nunit.framework.pdb
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\bin\Debug\nunit.framework.xml
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\obj\Debug\CalTestingTests.dll
+c:\users\zali\documents\visual studio 2015\Projects\CalTesting\CalTestingTests\obj\Debug\CalTestingTests.pdb

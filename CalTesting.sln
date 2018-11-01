@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalTesting", "CalTesting\CalTesting.csproj", "{7B4D8506-5D41-41BD-AD9D-6F178B7ECC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalTestingTests", "CalTestingTests\CalTestingTests.csproj", "{22D98081-4724-40EF-8F01-2E2F2DFC7743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B4D8506-5D41-41BD-AD9D-6F178B7ECC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4D8506-5D41-41BD-AD9D-6F178B7ECC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4D8506-5D41-41BD-AD9D-6F178B7ECC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4D8506-5D41-41BD-AD9D-6F178B7ECC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D98081-4724-40EF-8F01-2E2F2DFC7743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D98081-4724-40EF-8F01-2E2F2DFC7743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D98081-4724-40EF-8F01-2E2F2DFC7743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D98081-4724-40EF-8F01-2E2F2DFC7743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
